@@ -1,11 +1,10 @@
 # 更改记录 
 ## 2023.1.11
-1.完善了安全日志打包功能,打包好的日志存放在log目录下
-2.更新恶意特征库maltrail规则
-3.可疑进程名称规则新增了minerd|r00t|sqlmap|nmap|hydra|aircrack|fscan|xray|frp|nps|npc|teamserver|sliver|hack|haiduc|scan|ew|proxy|.elf|neoreg|LinEnum
-4.优化可疑进程名称方法中对进程结果的输出
-5.将ipip.net库更改为纯真ip库(2023年01月04日IP数据)
-6.优化了一些代码
+- 完善了安全日志打包功能,打包好的日志存放在log目录下
+- 更新恶意特征库maltrail规则
+- 可疑进程名称规则新增了minerd|r00t|sqlmap|nmap|hydra|aircrack|fscan|xray|frp|nps|npc|teamserver|sliver|hack|haiduc|scan|ew|proxy|.elf|neoreg|LinEnum
+- 将ipip.net库更改为纯真ip库(2023年01月04日IP数据)
+- 优化了一些代码
 
 # GScan v0.1
 
